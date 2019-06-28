@@ -16,7 +16,7 @@ spec:
   persistentVolumeReclaimPolicy: Retain
   nfs:
     path: /opt/sfw
-    server: ins-1
+    server: ins-2
 ---
 # pvc
 ---
